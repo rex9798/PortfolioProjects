@@ -1,5 +1,5 @@
-### I used excel to clean the data first.
-### Remove duplicates, change date format, and remove any abnormality.
+-- I used excel to clean the data first.
+-- Remove duplicates, change date format, and remove any abnormality.
 
 USE project;
 DROP TABLE IF EXISTS AccidentData;
