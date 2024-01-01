@@ -1,7 +1,10 @@
+
 -- SELECT a database to work with
 USE project;
 
 -- Clean the data before importing to mysql
+-- I used excel to clean the data first.
+-- Remove duplicates, change date format, and remove any abnormality.
 
 -- Create a table template first 
 
