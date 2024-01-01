@@ -1,3 +1,6 @@
+-- I used excel to clean the data first.
+-- Remove duplicates, change date format, and remove any abnormality.
+
 -- SELECT a database to work with
 USE project;
 
